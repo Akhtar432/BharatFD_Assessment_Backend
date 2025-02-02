@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BharatFD_Assesment
 
 This project provides a backend system for managing Frequently Asked Questions (FAQs) and admin users. It includes Redis caching for performance optimization and supports multilingual queries.
@@ -101,3 +102,6 @@ For Testing
 npm test
 
 ```
+=======
+# BharatFD_Assessment_Backend
+>>>>>>> 7e7919f59a18f7db18646cbccb6eb838325cebb0
